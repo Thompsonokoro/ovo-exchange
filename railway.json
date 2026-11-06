@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "python ovo.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
